@@ -1,0 +1,165 @@
+*, *::before, *::after{
+    box-sizing: inherit;}
+
+html{
+    box-sizing: border-box;}
+
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;}
+
+.header {
+    height: 645px;
+    width: 390px;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-image: url(../img/big-screen.svg);}
+
+.main_logo{
+    margin: auto;
+    width: 390px;
+    padding-top: 20px;
+    padding-left: 20px; 
+    padding-right: 20px; }
+
+.main_tittle {
+    width: 350px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 31px;
+    color: #FFFFFF;
+    font-size: 22px;
+    letter-spacing: -1px;}
+
+.main_block{
+    width: 350px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;}
+
+.Karen{
+    display: none;
+    position: relative;
+    width: 200px;
+    height: 200px;}
+
+.CTA{   
+    position: relative;
+    left: -83px;
+    width: 100px;
+    height: 100px;}
+
+.Box{
+    display: none;}
+
+.Dot_right{
+    position: relative;
+    width: 80px;
+    height: 80px;
+    top: -50px;
+    left: 50px;}
+
+.About-trailer{
+    display: flex;
+    padding-top: 51px;
+    width: 350px;
+    justify-content: space-between;}
+
+.trailer{
+    position: relative;
+    width: 100px;
+    height: 100px;}
+
+.About{
+    position: relative;
+    width: 230px;
+    height: 100px;
+    margin-top: px;}
+
+.testimonial{
+    position: relative;
+    width: 350px;
+    height: 126px;
+    top: 10px;
+    left: 1px;}
+
+.Audio{
+    position: relative;
+    width: 200px;
+    height: 80px;
+    top: -110px;
+    left: 135px;}
+
+.Play{
+    position: relative;
+    width: 30px;
+    height: 30px;
+    top: -90px;
+    left: 115px;}
+
+.middle{
+    width: 390px;
+    margin-left: auto;
+    margin-right: auto;}
+
+.second_tittle{
+    width: 350px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 32px;
+    letter-spacing: -1px;}
+
+.Card_type{
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    justify-content: space-around;
+    justify-content: space-between}
+
+.Card_size{
+    width: 350px;
+    height: auto;}
+
+.bottom{
+    width: 390px;
+    margin-left: auto;
+    margin-right: auto;}
+
+.bottom_tittle{
+    width: 350px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 32px;
+    letter-spacing: -1px;}
+
+.Para_type{
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    justify-content: space-around;
+    justify-content: space-between;}
+
+/* <!-- <div class="dot_left"><img src="img/dot-ornament.svg" alt="dot-ornament"></div>
+            <div class="dot_right"><img src="img/dot-ornament.svg" alt="dot-ornament"></div>
+            <div class="Karen"><img src="img/main-Karen.svg" alt="Karen"></div>
+            <div class="trailer"><img src="img/main-trailer.svg" alt="trailer"></div>
+            <div class="testimonial"><img src="img/main-test.svg" alt="Testimonial"></div>
+            <div class="Audio"><img src="img/main-audio.svg" alt="Audio"></div>
+            <div class="play"><img src="img/main-play.svg" alt="Play"></div>
+            <div class="CTA"><img src="img/main-CTA.svg" alt="CTA"></div>
+            <div class="About"><img src="img/main-about.svg" alt="About"></div>
+            <div class="box"><img src="img/main-box.svg" alt="Box"></div> --> */
